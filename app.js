@@ -83,5 +83,6 @@ var a = "apple";
 var b = 2;
 console.log("");}
 else {
-	console.log("")
+	console.log(a)
 }
+    
