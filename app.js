@@ -85,4 +85,6 @@ console.log("");}
 else {
 	console.log(a)
 }
-    
+            //ouuu get ummmm blah blah lalalalala so much pressure i cant 
+            //hello darkness my old friend youve come to talk with me againnnnnnn
+            // its not unusual to be loved by anyoneeeeee
